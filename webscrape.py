@@ -9,6 +9,8 @@ Python webscraper to collect air quality index data from "https://aqicn.org/" an
 The page has a dynamic table - so I suggest you download and copy paste the html into the index.html file and go from there. 
 When downloading make sure you have the appropriate table selected. 
 
+Please provide acknowledgement if using this tool results in an academic publication
+
 """
 
 # Enter the start and end here in YYYYMM format. 00 means January, 11 means December 
